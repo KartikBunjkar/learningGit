@@ -1,0 +1,11 @@
+Assignment 2
+Q.2 ) Find out more operating systems that have similar installation procedure for Eclipse.
+
+Ans -->
+Debian 
+Kubuntu 
+Xubuntu
+Redhat(diff in fetching and installing)
+Fedora (same as Redhat)
+Centos (same as Redhat)
+SUSE Linux (same as Redhat).
