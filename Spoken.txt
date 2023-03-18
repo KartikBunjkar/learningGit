@@ -13,3 +13,5 @@ SUSE Linux (same as Redhat).
 1st changed here.
 
 1st change in branch hello.
+
+2nd change inn branch master to see merge conflict.
