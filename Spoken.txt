@@ -14,4 +14,8 @@ SUSE Linux (same as Redhat).
 
 1st change in branch hello.
 
+
 2nd change inn branch master to see merge conflict.
+
+2nd change in brnch hello to see merge conflict.
+
